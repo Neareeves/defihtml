@@ -5,13 +5,11 @@ C'est un élément inline.
 
 - <i> Met le texte en italique.
 C'est un élément inline.
-<<<<<<< HEAD
 
 -
 -
 -
-=======
->>>>>>> fa3d28f2af9203f58807f66e7ff61db578001d77
+
 
 Balises block : 
 - table L'élément HTML <table> permet de représenter un tableau de données, c'est-à-dire des informations exprimées sur un tableau en deux dimensions.
@@ -27,16 +25,10 @@ C'est un élément block.
 C'est un élément bloc.
 
 Balises spéciales : 
-<<<<<<< HEAD
+
 - meta La balise <meta> sert à placer des métadonnées (metadata) dans une page HTML. Ces informations sont placées dans l'élément <head>, elles ne seront pas affichées sur la page web.
 
 -
 -
 -
-=======
-- meta
-- header
-- title
-- body
->>>>>>> fa3d28f2af9203f58807f66e7ff61db578001d77
--
+
