@@ -1,5 +1,5 @@
 Balises inline : 
--
+- <a>
 -
 -
 -
@@ -12,7 +12,7 @@ Balises block :
 -
 -
 
-Balises spéciales : 
+Balises spÃ©ciales : 
 - meta
 -
 -
