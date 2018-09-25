@@ -1,6 +1,6 @@
-Balises inline : 
+﻿Balises inline : 
 - <a>
--
+- img
 -
 -
 -
@@ -14,7 +14,7 @@ Balises block :
 
 Balises spéciales : 
 - meta
--
--
--
+- header
+- title
+- body
 -
