@@ -1,5 +1,6 @@
 ﻿Balises inline : 
-- img
+- img <img src="votreImage.png" alt="referenceImage"> est utiliser afin d'afficher une image sur une page web
+
 - <a> La balise <a> permet d'intoduire un lien dans un code. On lui associe souvent l'attribut href qui indique le lien.
 C'est un élément inline.
 
@@ -9,8 +10,7 @@ C'est un élément inline.
 - <link> définit la relation entre le document courant et une ressource externe. Cet élément peut être utilisé pour définir un lien vers une 
 feuille de style ou un cadre de navigation (accéder à la même page dans une langue différente par exemple).
 
--
--
+
 
 
 Balises block : 
@@ -39,7 +39,9 @@ Balises spéciales :
 
 - meta La balise <meta> sert à placer des métadonnées (metadata) dans une page HTML. Ces informations sont placées dans l'élément <head>, elles ne seront pas affichées sur la page web.
 
--
--
--
+- title La balise Title est une balise du code HTML utilisée pour donner un titre à une page web. Elle représente une part importante du référencement
+
+- header L’élément <header> définit l’en-tête d’un document ou d’une section. Il peut être utilisé pour contenir une introduction ou des liens de navigation.
+
+- body L'élément <body> représente le contenu principal du document HTML. Il ne peut y avoir qu'un élément <body> par document. Il représente le corp de la page.
 
