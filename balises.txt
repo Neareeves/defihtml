@@ -1,0 +1,46 @@
+﻿Balises inline : 
+- img <img src="votreImage.png" alt="referenceImage"> est utiliser afin d'afficher une image sur une page web
+
+- <a> La balise <a> permet d'intoduire un lien dans un code. On lui associe souvent l'attribut href qui indique le lien.
+C'est un élément inline.
+
+- <i> Met le texte en italique.
+C'est un élément inline.
+
+- <link> définit la relation entre le document courant et une ressource externe. Cet élément peut être utilisé pour définir un lien vers une 
+feuille de style ou un cadre de navigation (accéder à la même page dans une langue différente par exemple).
+
+
+
+
+Balises block : 
+- table L'élément HTML <table> permet de représenter un tableau de données, c'est-à-dire des informations exprimées sur un tableau en deux dimensions.
+
+- textarea L'élément HTML <textarea> représente un contrôle qui permet d'éditer du texte sur plusieurs lignes en créant une zone dans laquelle écrire du texte.
+
+- nav L'élément HTML <nav> représente une section d'une page ayant des liens vers d'autres pages ou des fragments de cette page. Autrement dit, c'est une section destinée à la navigation dans un document (avec des menus, des tables des matières, des index, etc.).
+
+- <section> est un élément HTML qui représente une section d'un document, par exemple un groupe de contenu sur un même thème. Il commence en général avec un titre.
+C'est un élément block.
+
+- La balise <hr> introduit un trait horizontal, centré par défaut, et qui fait toute la largeur de l'écran.
+C'est un élément bloc.
+- <footer> : Section de conclusion d'une section ou d'un article, voir du document entier (pied de page). On y place généralement de informations concernant l’auteur,
+les mentions légales, une navigation ou une pagination (en combinaison avec <nav>, un logo de rappel, des coordonnées, des dates de publication.
+- <form> représente la section d'un document qui contient des contrôles interactifs permettant à un utilisateur d'envoyer des données à un serveur web.
+Elle permet de créer des formulaires. 
+
+
+Balises spéciales
+- meta
+- <!...> : balise de commentaires. Elle est visible sur le code mais n'a aucun intérêt ni influence sur le site internet.
+
+Balises spéciales : 
+
+- meta La balise <meta> sert à placer des métadonnées (metadata) dans une page HTML. Ces informations sont placées dans l'élément <head>, elles ne seront pas affichées sur la page web.
+
+- title La balise Title est une balise du code HTML utilisée pour donner un titre à une page web. Elle représente une part importante du référencement
+
+- header L’élément <header> définit l’en-tête d’un document ou d’une section. Il peut être utilisé pour contenir une introduction ou des liens de navigation.
+
+- body L'élément <body> représente le contenu principal du document HTML. Il ne peut y avoir qu'un élément <body> par document. Il représente le corp de la page.
