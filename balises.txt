@@ -1,6 +1,13 @@
 ﻿Balises inline : 
+<<<<<<< HEAD
 - <a>
 - img
+=======
+- <a> La balise <a> permet d'intoduire un lien dans un code. On lui associe souvent l'attribut href qui indique le lien.
+C'est un élément inline.
+- <i> Met le texte en italique.
+C'est un élément inline.
+>>>>>>> 47cf812047a1fb28e0045c738ce60dd6d5582c0f
 -
 -
 -
@@ -9,8 +16,10 @@ Balises block :
 - table
 - textarea
 - nav 
--
--
+- <section> est un élément HTML qui représente une section d'un document, par exemple un groupe de contenu sur un même thème. Il commence en général avec un titre.
+C'est un élément block.
+- La balise <hr> introduit un trait horizontal, centré par défaut, et qui fait toute la largeur de l'écran.
+C'est un élément bloc.
 
 Balises spéciales : 
 - meta
