@@ -43,5 +43,3 @@ Balises spéciales
 
 - title La balise Title est une balise du code HTML utilisée pour donner un titre à une page web. Elle représente une part importante du référencement
 
-
-
