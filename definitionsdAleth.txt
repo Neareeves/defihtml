@@ -1,0 +1,3 @@
+<section>
+
+<section> est un élément HTML qui représente une section d'un document, par exemple un groupe de contenu sur un même thème. Il commence en général avec un titre.
