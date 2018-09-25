@@ -2,21 +2,33 @@
 - img
 - <a> La balise <a> permet d'intoduire un lien dans un code. On lui associe souvent l'attribut href qui indique le lien.
 C'est un élément inline.
+
 - <i> Met le texte en italique.
 C'est un élément inline.
 
+-
+-
+-
+
+
 Balises block : 
-- table
-- textarea
-- nav 
+- table L'élément HTML <table> permet de représenter un tableau de données, c'est-à-dire des informations exprimées sur un tableau en deux dimensions.
+
+- textarea L'élément HTML <textarea> représente un contrôle qui permet d'éditer du texte sur plusieurs lignes en créant une zone dans laquelle écrire du texte.
+
+- nav L'élément HTML <nav> représente une section d'une page ayant des liens vers d'autres pages ou des fragments de cette page. Autrement dit, c'est une section destinée à la navigation dans un document (avec des menus, des tables des matières, des index, etc.).
+
 - <section> est un élément HTML qui représente une section d'un document, par exemple un groupe de contenu sur un même thème. Il commence en général avec un titre.
 C'est un élément block.
+
 - La balise <hr> introduit un trait horizontal, centré par défaut, et qui fait toute la largeur de l'écran.
 C'est un élément bloc.
 
 Balises spéciales : 
-- meta
-- header
-- title
-- body
+
+- meta La balise <meta> sert à placer des métadonnées (metadata) dans une page HTML. Ces informations sont placées dans l'élément <head>, elles ne seront pas affichées sur la page web.
+
 -
+-
+-
+
