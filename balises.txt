@@ -7,7 +7,10 @@ C'est un élément inline.
 - <i> Met le texte en italique.
 C'est un élément inline.
 
-- 
+- <link> définit la relation entre le document courant et une ressource externe. Cet élément peut être utilisé pour définir un lien vers une 
+feuille de style ou un cadre de navigation (accéder à la même page dans une langue différente par exemple).
+
+
 
 
 Balises block : 
@@ -22,6 +25,15 @@ C'est un élément block.
 
 - La balise <hr> introduit un trait horizontal, centré par défaut, et qui fait toute la largeur de l'écran.
 C'est un élément bloc.
+- <footer> : Section de conclusion d'une section ou d'un article, voir du document entier (pied de page). On y place généralement de informations concernant l’auteur,
+les mentions légales, une navigation ou une pagination (en combinaison avec <nav>, un logo de rappel, des coordonnées, des dates de publication.
+- <form> représente la section d'un document qui contient des contrôles interactifs permettant à un utilisateur d'envoyer des données à un serveur web.
+Elle permet de créer des formulaires. 
+
+
+Balises spéciales
+- meta
+- <!...> : balise de commentaires. Elle est visible sur le code mais n'a aucun intérêt ni influence sur le site internet.
 
 Balises spéciales : 
 
