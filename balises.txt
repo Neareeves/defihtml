@@ -1,0 +1,20 @@
+Balises inline : 
+- <a>
+-
+-
+-
+-
+
+Balises block : 
+- table
+- textarea
+- nav 
+-
+-
+
+Balises spéciales : 
+- meta
+-
+-
+-
+-
