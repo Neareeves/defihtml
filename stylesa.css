@@ -110,10 +110,11 @@ p {
 	max-width: 50%;
 	margin-right: auto;
 	margin-left: auto;
-	padding: 200px;
-
+	padding: 15vw;
+	font-weight: bold;
 }
 
+	
 .leschevrons {
 	background-image: url("chevrons.png");
 	background-size: 70%;
