@@ -1,0 +1,32 @@
+/* 
+
+stylesheet main.css 
+
+---------------
+
+par Emilie
+
+*/
+
+
+.leschevrons {
+		background-image: url("chevrons.png");
+		background-size: 70%;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+p {
+	text-align: center;	
+	max-width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 200px;
+	font-size: 16px
+	font-weight: bold; ;
+
+}
+
+	
+
+	
