@@ -40,23 +40,23 @@ nav > ul > li > a {
 	clear: both;
 }
 
-.submenu {
+.sousmenu {
 	display: none;
 }
-nav li:hover .submenu {
+nav li:hover .sousmenu {
 	display: inline-block;
 	position: absolute;
 	top: 100%;
 	left: 0px;
 	padding: 0px;
-	z-index: 10000;
+	z-index: 10000; /*signification?*/
 }
 
-.submenu li {
+.sousmenu li {
 	border-bottom: 1px solid #CCC;
 }
 
-.submenu li a{
+.sousmenu li a{
 	padding: 15px 30px;
 	font-size: 13px;
 	color: #222538;
@@ -78,10 +78,12 @@ nav li:hover .submenu {
 	background-color: rgba(228,77,38,0.15);
 }
 
-.menu-block .submenu {
+.menu-block .sousmenu {
 	background-color: rgb(230,100,40);
 }
-.menu-inline .submenu {
+.menu-inline .sousmenu {
 	background-color: rgb(000,160,240);
 }
-.menu-speciales .sousmenu {}
+.menu-speciales .sousmenu {
+	background-color: rgb(251, 216, 99);
+}
