@@ -1,0 +1,89 @@
+/*navigation : menu*/
+
+nav {
+	width: 100%;
+	background-color: rgba(85,54,87,0.5);
+}
+
+nav > ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav > ul > li {
+	float: left;
+	position: relative;
+}
+
+nav li {
+	list-style-type: none;
+}
+
+nav > ul::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+nav a {
+	display: inline-block;
+	text-decoration: blink; /*change into none*/
+}
+/*ça veut dire quoi? A éclaircir:...*/
+
+nav > ul > li > a {
+	padding: 20px 30px;
+	color: #FFF;
+}
+
+.clear {
+	clear: both;
+}
+
+.sousmenu {
+	display: none;
+}
+nav li:hover .sousmenu {
+	display: inline-block;
+	position: absolute;
+	top: 100%;
+	left: 0px;
+	padding: 0px;
+	z-index: 10000; /*signification?*/
+}
+
+.sousmenu li {
+	border-bottom: 1px solid #CCC;
+}
+
+.sousmenu li a{
+	padding: 15px 30px;
+	font-size: 13px;
+	color: #222538;
+	width: 270px;
+}
+
+.menu-block:hover {
+	border-top: 5px solid #e44d26;
+	background-color: rgba(228,77,38,0.15);
+}
+
+.menu-inline:hover {
+	border-top: 5px solid #e44d26;
+	background-color: rgba(228,77,38,0.15);
+}
+
+.menu-speciales:hover {
+	border-top: 5px solid #e44d26;
+	background-color: rgba(228,77,38,0.15);
+}
+
+.menu-block .sousmenu {
+	background-color: rgb(230,100,40);
+}
+.menu-inline .sousmenu {
+	background-color: rgb(000,160,240);
+}
+.menu-speciales .sousmenu {
+	background-color: rgb(251, 216, 99);
+}
