@@ -1,12 +1,3 @@
-@font-face {
-	font-family: 'dreamorphans';
-	src: url('dreamorphans.ttf') format('truetype'); 
-}
-*
-{
-	font-family: 'dreamorphans';
-}
-
 #conteneur
 {
 	display: flex;
