@@ -1,0 +1,12 @@
+#conteneur
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center; 
+	background-color: rgba(85,54,87,0.5);
+}
+.titrepage
+{
+	align-items: center;
+	width: 30%
+}
