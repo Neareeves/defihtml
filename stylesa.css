@@ -1,3 +1,7 @@
+* {
+	font-family: comic sans ms;
+}
+
 /*navigation : menu*/
 
 nav {
@@ -87,3 +91,18 @@ nav li:hover .sousmenu {
 .menu-speciales .sousmenu {
 	background-color: rgb(251, 216, 99);
 }
+.sousmenu li:hover a {
+	color: #EEE;
+	font-weight: bold;
+}
+
+.menu-block .sousmenu li:hover{
+	background-color: rgb(210,77,60);
+}
+.menu-inline .sousmenu li:hover{
+	background-color: rgb(210,77,60);
+}
+.menu-speciales .sousmenu li:hover{
+	background-color: rgb(210,77,60);
+}
+
