@@ -1,4 +1,6 @@
-
+* {
+	font-family: 'Century Gothic';
+}
 /*navigation : menu*/
 
 nav {
@@ -103,3 +105,16 @@ nav li:hover .sousmenu {
 	background-color: rgb(210,77,60);
 }
 
+p {
+	text-align: center;	
+	max-width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 80px;
+}
+p
+.test {
+	background-image: url("chevrons.png");
+	background-size: 100%;
+	background-position: center;
+}
