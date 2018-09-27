@@ -114,8 +114,9 @@ p {
 
 }
 
-.test {
+.leschevrons {
 	background-image: url("chevrons.png");
-	background-size: 100%;
+	background-size: 70%;
 	background-position: center;
+	background-repeat: no-repeat;
 }
