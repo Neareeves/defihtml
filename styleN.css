@@ -1,8 +1,16 @@
 #logoAHC
 {
 display: flex;
+justify-content: space-between;
 }
-footer div
+.logoACS
 {
-border: solid black 10px;
+justify-content: flex-end;
+}
+
+
+
+footer
+{
+	
 }
