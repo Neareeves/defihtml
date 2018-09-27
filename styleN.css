@@ -1,26 +1,22 @@
 #logoAHC
 {
 display: flex;
-justify-content: space-between;
-
-}
-.logoACS
-{
-justify-content: flex-end;
+justify-content: space-around;
+height: 8em; 
+line-height: 8em; 
+white-space: nowrap;
 }
 
-<<<<<<< HEAD
+
 .nomEquipe
 {
-	text-align: center;
-	width: 550px;
-	height: 100px;
+vertical-align: middle;
 }
+
 
 footer
 {
 	background-color: silver;
+	width: 30;
 }
-=======
 
->>>>>>> ebc66eb4cbe6ce83e23a93d5479dc6125962a999
