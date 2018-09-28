@@ -165,8 +165,8 @@ p {
 @media all and (max-width: 1300px){
 	.leschevrons {
 		background-image: none;
-		background-color: black;
-		opacity: 0.2;
+		background-color: none;
+		opacity: 1;
 
 	}
 	p {
