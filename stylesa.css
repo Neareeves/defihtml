@@ -1,12 +1,12 @@
 * {
 	font-family: 'Century Gothic';
-	
+
 }
 /*navigation : menu*/
 
 nav {
 	width: 100%;
-	background-color: rgba(85,54,87,0.5);
+	background-color: rgba(106, 68, 68, 0.84);
 }
 
 
@@ -84,13 +84,13 @@ nav li:hover .sousmenu {
 }
 
 .menu-block .sousmenu {
-	background-color: rgb(230,100,40);
+	background-color: #32909a;
 }
 .menu-inline .sousmenu {
-	background-color: rgb(000,160,240);
+	background-color: #80ced6;
 }
 .menu-speciales .sousmenu {
-	background-color: rgb(251, 216, 99);
+	background-color: #d8f0f3;
 }
 .sousmenu li:hover a {
 	color: #EEE;
@@ -132,6 +132,7 @@ p {
 	background-repeat: no-repeat;
 }
 
+
 /* Media queries, responsive*/
 @media all and (max-width: 1300px){
 	.leschevrons {
@@ -147,5 +148,5 @@ p {
 	margin-left: auto;
 	padding: 13.5vw;
 	font-weight: bold;
-}
+	}
 }
