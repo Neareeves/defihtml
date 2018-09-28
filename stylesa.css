@@ -159,22 +159,143 @@ p {
 .exemples {
 	text-align: center;
 }
-
+.textecourant {
+	text-align: center;
+}
 
 /* Media queries, responsive*/
 @media all and (max-width: 1300px){
-	.leschevrons {
+	/*.leschevrons {
 		background-image: none;
 		background-color: none;
 		opacity: 1;
 
-	}
-	p {
+	}*/
+	/*p {
 	text-align: center;	
 	max-width: 50%;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 13.5vw;
 	font-weight: bold;
+	}*/
+}
+
+@media all and (max-width: 640px){
+	.accroche {
+		display: none; 
 	}
+	/*navigation : menu*/
+
+	nav {
+		width: 100%;
+		background-color: rgba(106, 68, 68, 0.84);
+	}
+
+
+	nav > ul {
+		margin: 0;
+		padding: 0;
+	}
+
+	nav > ul > li {
+		float: left;
+		position: relative;
+	}
+
+	nav li {
+		list-style-type: none;
+	}
+
+	nav > ul::after{
+		content: "";
+		display: block;
+		clear: both;
+	}
+
+	nav a {
+		display: inline-block;
+		text-decoration: blink; /*change into none*/
+	}
+	/*ça veut dire quoi? A éclaircir:...*/
+
+	nav > ul > li > a {
+		padding: 10px 20px;
+		color: #FFF;
+	}
+
+	.clear {
+		clear: both;
+	}
+
+	.sousmenu {
+		display: none;
+	}
+	nav li:hover .sousmenu {
+		display: inline-block;
+		position: absolute;
+		top: 100%;
+		left: 0px;
+		padding: 0px;
+		z-index: 10000; /*signification?*/
+	}
+
+	.sousmenu li {
+		border-bottom: 1px solid #CCC;
+	}
+
+	.sousmenu li a{
+		padding: 15px 30px;
+		font-size: 13px;
+		color: #222538;
+		width: 270px;
+	}
+
+	.menu-block:hover {
+		border-top: 5px solid #e44d26;
+		background-color: rgba(228,77,38,0.15);
+	}
+
+	.menu-inline:hover {
+		border-top: 5px solid #e44d26;
+		background-color: rgba(228,77,38,0.15);
+	}
+
+	.menu-speciales:hover {
+		border-top: 5px solid #e44d26;
+		background-color: rgba(228,77,38,0.15);
+	}
+
+	.menu-block .sousmenu {
+		background-color: #32909a;
+	}
+	.menu-inline .sousmenu {
+		background-color: #80ced6;
+	}
+	.menu-speciales .sousmenu {
+		background-color: #d8f0f3;
+	}
+	.sousmenu li:hover a {
+		color: #EEE;
+		font-weight: bold;
+	}
+
+	.menu-block .sousmenu li:hover{
+		background-color: rgba(179, 20, 46, 0.72);
+	}
+	.menu-inline .sousmenu li:hover{
+		background-color: rgba(179, 20, 46, 0.72);
+	}
+	.menu-speciales .sousmenu li:hover{
+		background-color: rgba(179, 20, 46, 0.72);
+	}
+	.titrepage {
+	font-size: 7pt;
+	text-align: center;
+
+	}
+	.nomEquipe {
+		display: none;
+	}
+	
 }
