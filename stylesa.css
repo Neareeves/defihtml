@@ -1,11 +1,25 @@
+/*Police  */
+
 * {
 	font-family: 'Century Gothic';
 
 }
 
 @font-face {
-	font-family: 'ThreePoint';
-	src: url('ThreePoint.otf') format('opentype');
+font-family: 'lemon';
+src: url('LemonMilk.otf') format('opentype');
+}
+.titrepage
+{
+font-family: 'lemon';
+} 
+
+.accroche, h1, .nomEquipe {
+	color: #f5efef;
+	
+}
+.accroche {
+	margin-left: 10px;
 }
 
 /*navigation : menu*/
