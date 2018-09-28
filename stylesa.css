@@ -1,7 +1,27 @@
+/*Police  */
+
 * {
 	font-family: 'Century Gothic';
 
 }
+
+@font-face {
+font-family: 'lemon';
+src: url('LemonMilk.otf') format('opentype');
+}
+.titrepage
+{
+font-family: 'lemon';
+} 
+
+.accroche, h1, .nomEquipe {
+	color: #f5efef;
+	
+}
+.accroche {
+	margin-left: 10px;
+}
+
 /*navigation : menu*/
 
 nav {
@@ -98,13 +118,13 @@ nav li:hover .sousmenu {
 }
 
 .menu-block .sousmenu li:hover{
-	background-color: rgb(210,77,60);
+	background-color: rgba(179, 20, 46, 0.72);
 }
 .menu-inline .sousmenu li:hover{
-	background-color: rgb(210,77,60);
+	background-color: rgba(179, 20, 46, 0.72);
 }
 .menu-speciales .sousmenu li:hover{
-	background-color: rgb(210,77,60);
+	background-color: rgba(179, 20, 46, 0.72);
 }
 
 /*fin du menu*/
@@ -130,6 +150,10 @@ p {
 	background-size: 70%;
 	background-position: center;
 	background-repeat: no-repeat;
+}
+
+.exemples {
+	text-align: center;
 }
 
 
