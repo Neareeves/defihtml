@@ -2,6 +2,12 @@
 	font-family: 'Century Gothic';
 
 }
+
+@font-face {
+	font-family: 'ThreePoint';
+	src: url('ThreePoint.otf') format('opentype');
+}
+
 /*navigation : menu*/
 
 nav {
@@ -98,13 +104,13 @@ nav li:hover .sousmenu {
 }
 
 .menu-block .sousmenu li:hover{
-	background-color: rgb(210,77,60);
+	background-color: rgba(179, 20, 46, 0.72);
 }
 .menu-inline .sousmenu li:hover{
-	background-color: rgb(210,77,60);
+	background-color: rgba(179, 20, 46, 0.72);
 }
 .menu-speciales .sousmenu li:hover{
-	background-color: rgb(210,77,60);
+	background-color: rgba(179, 20, 46, 0.72);
 }
 
 /*fin du menu*/
@@ -130,6 +136,10 @@ p {
 	background-size: 70%;
 	background-position: center;
 	background-repeat: no-repeat;
+}
+
+.exemples {
+	text-align: center;
 }
 
 
