@@ -1,3 +1,7 @@
+<?php include('head.php') ; ?>
+<title>Balise &lsaquo;a&rsaquo;</title>
+	<head>
+		<body>
 <?php include('navigateur.php') ; ?>
 	
 		<main>
