@@ -13,7 +13,7 @@
 		<link rel="stylesheet" type="text/css" href="styleN.css">
 		<link rel="stylesheet" type="text/css" href="stylese.css">
 
-		<title>Balise &lsaquo;i&rsaquo;</title>
+		<title>Les balises HTML</title>
 
 </head>
 <body>
