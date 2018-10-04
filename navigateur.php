@@ -13,7 +13,7 @@
 		<link rel="stylesheet" type="text/css" href="styleN.css">
 		<link rel="stylesheet" type="text/css" href="stylese.css">
 
-		<title>Balise &lsaquo;footer&rsaquo;</title>
+		<title>Balise &lsaquo;i&rsaquo;</title>
 
 </head>
 <body>
@@ -90,52 +90,4 @@
 
 	</header>
 	
-		<main>
-
-			<h2 class="letitre">La balise &lsaquo; !-- &rsaquo;
-			</h2>
-
-			<article>
-
-				<!-- <h3 class="titredefinition">Définition</h3> -->
-					<div class="leschevrons">
-						<p class="textecourant">Blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
-					</div>
-				<div class="exemples">
-					<h4>Exemple : </h4>
-
-					<div>
-					fdfdsf<!-- Insérer text code  -->
-					</div>
-
-					<br>
-
-					<img src="" alt="">
-
-					<br>
-
-					<div>
-					fdfds<!-- Insérer texte résultat -->
-					</div>
-
-					<br>
-
-					<img src="" alt="">	
-				</div>	
-			</article>
-		</main>
-</body>
-
-
-<footer>
-
-	<div id ="logoAHC">
-		<div class="logoACS"> <img src="logoACS.png" alt=logoACS> </div>
-		<div class="nomEquipe"> Ce site à été rédigé par FRANCOIS Nathan, ARRIAS CAMPS Aleth, BERNARD Kevin, QUINONERO Emilie. </div>
-		<div class="logoCH"> <img src="Html5.png" alt=logoHtml> <img src="CSS3.png" alt=logoCSS> </div>
-		<div class="retourAccueil"> <a href="accueil.html"><img src="boutonRetour2.png" alt="Accueil" title="ACCUEIL"> </a>
-	</div>
-
-</footer>
-
-</html>
+	
