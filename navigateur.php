@@ -6,7 +6,9 @@
 
 		<meta name="description" content="On vous explique les balises HTML sans se taper la tête contre le clavier! ">
 		<meta name="author" content="Une équipe de super développeurs!">
-
+<meta property="og:title" content="Les balises HTML pour les nuls">
+		<meta property="og:description" content="Tout sur les balises HTML, garanti sans prise de tête!">
+		<meta property="og:image" src="https://www.maxpixel.net/static/photo/1x/Web-Html-Language-Programming-Coding-Code-2434271.jpg" content="Les balises HTML pour les nuls">
 		<link rel="shortcut icon" type="image/png" href="logoHtml.png">
 		<link rel="stylesheet" type="text/css" href="stylesa.css">
 		<link rel="stylesheet" type="text/css" href="stylesk.css">
