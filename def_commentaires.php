@@ -1,5 +1,11 @@
 <!-- head en php -->
+<?php include("head.php"); ?>
+<title> balise !-- </title>
+</head>
+<body>
 
+
+<!-- header en php -->
 <?php include("navigateur.php"); ?>
 	
 		<main>
