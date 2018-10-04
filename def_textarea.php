@@ -1,5 +1,5 @@
 <?php include('head.php') ; ?> 
-<title>Les balises HTML</title>
+<title>Balise &lsaquo;textarea&rsaquo;</title>
 
 </head>
 <body>
