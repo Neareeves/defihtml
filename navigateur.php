@@ -35,19 +35,19 @@
 
 				<ul class="sousmenu">
 
-					<li><a href="def_footer.html">La balise &lsaquo;footer&rsaquo;</a></li>
+					<li><a href="def_footer.php">La balise &lsaquo;footer&rsaquo;</a></li>
 
-					<li><a href="def_form.html">La balise &lsaquo;form&rsaquo;</a></li>
+					<li><a href="def_form.php">La balise &lsaquo;form&rsaquo;</a></li>
 
-					<li><a href="defhr.html">La balise &lsaquo;hr&rsaquo;</a></li>
+					<li><a href="defhr.php">La balise &lsaquo;hr&rsaquo;</a></li>
 
-					<li><a href="def_nav.html">La balise &lsaquo;nav&rsaquo;</a></li>
+					<li><a href="def_nav.php">La balise &lsaquo;nav&rsaquo;</a></li>
 					
-					<li><a href="defsection.html">La balise &lsaquo;section&rsaquo;</a></li>
+					<li><a href="defsection.php">La balise &lsaquo;section&rsaquo;</a></li>
 					
-					<li><a href="def_table.html">La balise &lsaquo;table&rsaquo;</a></li>
+					<li><a href="def_table.php">La balise &lsaquo;table&rsaquo;</a></li>
 
-					<li><a href="def_textarea.html">La balise &lsaquo;textarea&rsaquo;</a></li>
+					<li><a href="def_textarea.php">La balise &lsaquo;textarea&rsaquo;</a></li>
 					
 				</ul>
 			</li>		
@@ -55,13 +55,13 @@
 
 				<ul class="sousmenu">
 
-					<li><a href="defa.html"> La balise &lsaquo;a&rsaquo; </a></li>
+					<li><a href="defa.php"> La balise &lsaquo;a&rsaquo; </a></li>
 
-					<li><a href="defi.html">La balise &lsaquo;i&rsaquo;</a></li>
+					<li><a href="defi.php">La balise &lsaquo;i&rsaquo;</a></li>
 
-					<li><a href="defimg.html">La balise &lsaquo;img&rsaquo;</a></li>
+					<li><a href="defimg.php">La balise &lsaquo;img&rsaquo;</a></li>
 
-					<li><a href="def_link.html">La balise &lsaquo;link&rsaquo;</a></li>
+					<li><a href="def_link.php">La balise &lsaquo;link&rsaquo;</a></li>
 
 					
 				</ul>
@@ -70,15 +70,15 @@
 
 				<ul class="sousmenu">
 
-					<li><a href="def_commentaires.html">La balise &lsaquo;!...&rsaquo;</a></li>
+					<li><a href="def_commentaires.php">La balise &lsaquo;!...&rsaquo;</a></li>
 
-					<li><a href="defbody.html">La balise &lsaquo;body&rsaquo;</a></li>
+					<li><a href="defbody.php">La balise &lsaquo;body&rsaquo;</a></li>
 					
-					<li><a href="defheader.html">La balise &lsaquo;header&rsaquo;</a></li>
+					<li><a href="defheader.php">La balise &lsaquo;header&rsaquo;</a></li>
 					
-					<li><a href="def_meta.html">La balise &lsaquo;meta&rsaquo;</a></li>
+					<li><a href="def_meta.php">La balise &lsaquo;meta&rsaquo;</a></li>
 					
-					<li><a href="deftitle.html">La balise &lsaquo;title&rsaquo;</a></li>
+					<li><a href="deftitle.php">La balise &lsaquo;title&rsaquo;</a></li>
 				
 				</ul>
 			</li>
