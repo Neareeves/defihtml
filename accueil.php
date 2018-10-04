@@ -1,6 +1,6 @@
 <!-- head en php -->
 
-<?php include ("navigateaur.php"); ?>
+<?php include("navigateur.php"); ?>
 
 	
 
@@ -17,7 +17,7 @@
 
 <!-- footer en php -->
 
-<?php include ("navigateaurbas.php"); ?>
+<?php include("navigateurbas.php"); ?>
 
 </body>
 </html>

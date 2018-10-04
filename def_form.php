@@ -1,6 +1,6 @@
 <!-- head en php -->
 
-<?php include ("navigateaur.php"); ?>
+<?php include("navigateur.php"); ?>
 
 		<main>
 
@@ -40,16 +40,9 @@
 			</article>
 		</main>
 
-	<footer>
-		<div id ="logoAHC">
-			<div class="logoACS"> <img src="logoACS.png" alt=logoACS> </div>
-			<div class="nomEquipe"> Ce site à été rédigé par FRANCOIS Nathan, ARRIAS CAMPS Aleth, BERNARD Kevin, QUINONERO Emilie. </div>
-			<div class="logoCH"> <img src="HTML5.png" alt=logoHTML> <img src="CSS3.png" alt=logoCSS> </div>
-			<div class="retourAccueil"> <a href="accueil.html"><img src="boutonRetour2.png" alt="Accueil" title="ACCUEIL"> </a>
-			</div>
-		</div>
-			<!-- Logos HTML5, CSS3, ACS, développeurs -->
-	</footer>
+	<!-- footer en php -->
+
+<?php include("navigateurbas.php"); ?>
 
 </body>
 </html>
