@@ -1,5 +1,8 @@
+<?php include('head.php') ; ?>
+<title>Balise &lsaquo;hr&rsaquo;</title>
+	<head>
+		<body>
 <?php include('navigateur.php') ; ?>
-	
 		<main>
 
 			<h2 class="letitre">La balise &lsaquo;hr&rsaquo;
