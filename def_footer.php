@@ -4,7 +4,7 @@
 	
 		<main>
 
-			<h2 class="letitre">La balise &lsaquo;a&rsaquo;
+			<h2 class="letitre">La balise &lsaquo;footer&rsaquo;
 			</h2>
 
 			<article>
