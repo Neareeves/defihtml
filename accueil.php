@@ -1,6 +1,6 @@
 <!-- head en php -->
 <?php include("head.php"); ?>
-<title> accueil </title>
+<title> Les Balises HTML </title>
 </head>
 <body>
 
