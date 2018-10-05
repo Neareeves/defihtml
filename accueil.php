@@ -17,7 +17,7 @@
 		A l’aide de ce site vous pourrez découvrir certaines des balises HTML les plus couramment utilisés.
 		</p>
 	</div>
-	<br><br>
+	<br><br>gi
 
 
 
