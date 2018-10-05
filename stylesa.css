@@ -78,7 +78,7 @@ nav li:hover .sousmenu {
 	top: 100%;
 	left: 0px;
 	padding: 0px;
-	z-index: 10000; /*signification?*/
+	z-index: 10000; /*ça sera au dessus de tout*/
 }
 
 .sousmenu li {
