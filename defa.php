@@ -13,7 +13,7 @@
 					<div class="clear"></div>
 				<!-- <h3 class="titredefinition">Définition</h3> -->
 					<div class="leschevrons">
-						<p class="textecourant">La balise &lsaquo;a&rsaquo; permet d'intoduire un lien dans un code. On lui associe souvent l'attribut href qui indique la source du lien. En cliquant sur le texte qui se trouve entre les deux balises &lsaquo;a&rsaquo; et &lsaquo;/a&rsaquo;, on est transporté sur une autre page, dont l'attribut "href" précise l'adrese.
+						<p class="textecourant">La balise &lsaquo;a&rsaquo; permet d'intoduire un lien dans un code. On lui associe souvent l'attribut href qui indique la source du lien. En cliquant sur le texte qui se trouve entre les deux balises &lsaquo;a&rsaquo; et &lsaquo;/a&rsaquo;, on est redirigé sur une autre page, dont l'attribut "href" précise l'adresse.
 						</p>
 					</div>
 				<div class="exemples">

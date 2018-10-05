@@ -14,7 +14,7 @@
 
 				<!-- <h3 class="titredefinition">Définition</h3> -->
 					<div class="leschevrons">
-						<p class="textecourant">L'élément &lsaquo;body&rsaquo; représente le contenu principal du document HTML. Il ne peut y avoir qu'un élément body par document. Il représente le corp de la page.</p>
+						<p class="textecourant">L'élément &lsaquo;body&rsaquo; représente le contenu principal du document HTML. Il ne peut y avoir qu'un élément body par document. Il représente le corps de la page.</p>
 					</div>
 				<div class="exemples">
 					<h4>Exemple : </h4>
@@ -30,7 +30,7 @@
 					<br>
 
 					<div>
-					Voici le corp de la page web de notre blog.
+					Voici le corps de la page web de notre blog.
 					</div>
 
 					<br>

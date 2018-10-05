@@ -39,9 +39,6 @@
 				</div>	
 			</article>
 		</main>
-	<footer>
-
-	</footer>
 	<?php include('navigateurbas.php') ; ?> 
 </body>
 </html>

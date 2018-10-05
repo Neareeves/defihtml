@@ -17,7 +17,7 @@
 					<div class="clear"></div>
 				<!-- <h3 class="titredefinition">Définition</h3> -->
 					<div class="leschevrons">
-						<p class="textecourant">La balise &lsaquo;footer&rsaquo; sert à la conclusion d'une section ou d'un article, voir du document entier (pied de page). On y place généralement des informations concernant l’auteur, les mentions légales, une navigation ou une pagination (en combinaison avec &lsaquo; nav &rsaquo;, un logo de rappel, des coordonnées, des dates de publication.
+						<p class="textecourant">La balise &lsaquo;footer&rsaquo; sert à la conclusion d'une section ou d'un article, voire du document entier (pied de page). On y place généralement des informations concernant l’auteur, les mentions légales, une navigation ou une pagination (en combinaison avec &lsaquo; nav &rsaquo;, un logo de rappel, des coordonnées, des dates de publication.
 						</p>
 					</div>
 				<div class="exemples">

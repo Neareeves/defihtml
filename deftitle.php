@@ -15,7 +15,7 @@
 
 				<!-- <h3 class="titredefinition">Définition</h3> -->
 					<div class="leschevrons">
-						<p class="textecourant">La balise &lsaquo;title&rsaquo; est une balise du code HTML utilisée pour donner un titre à une page web. Elle représente une part importante du référencement</p>
+						<p class="textecourant">La balise &lsaquo;title&rsaquo; est une balise du code HTML utilisée pour donner un titre à une page web. Elle représente une part importante du référencement.</p>
 					</div>
 				<div class="exemples">
 					<h4>Exemple : </h4>

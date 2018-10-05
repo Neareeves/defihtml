@@ -24,7 +24,7 @@
 					<h4>Exemple : </h4>
 
 					<div>
-					&lsaquo; link &rsaquo; peut lier le fichier html vers différentes feuilles de style qui permettra de gèrer le design du site.  Ces liens apparaitront sur l'éditeur de code mais seront invisible pour l'utilisateur.
+					&lsaquo; link &rsaquo; peut lier le fichier html vers différentes feuilles de style qui permettront de gèrer le design du site. Ces liens apparaitront sur l'éditeur de code mais seront invisibles pour l'utilisateur.
 					</div>
 
 					<br>

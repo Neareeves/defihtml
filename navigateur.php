@@ -1,6 +1,3 @@
-
-
-
 	<header>
 		<div id="conteneur">
 			<div class="accroche">Explication des balises HTML<br>Garantie sans tapage de tête contre le clavier !</div>
