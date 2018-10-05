@@ -1,6 +1,6 @@
 <?php include('head.php') ; ?>
 <title>Balise &lsaquo;hr&rsaquo;</title>
-	<head>
+	</head>
 		<body>
 <?php include('navigateur.php') ; ?>
 		<main>

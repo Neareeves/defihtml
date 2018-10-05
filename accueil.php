@@ -1,10 +1,8 @@
 <!-- head en php -->
 <?php include("head.php"); ?>
-<title> accueil </title>
+<title>Les balises HTML</title>
 </head>
 <body>
-
-
 <!-- header en php -->
 <?php include("navigateur.php"); ?>
 
